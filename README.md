@@ -1,6 +1,7 @@
 # population_project
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6cd7a2b9-012e-476b-b7a3-acf347ae7720/Untitled.png)
+![image](https://user-images.githubusercontent.com/67576850/210953663-4a4ca444-ae66-473a-aca4-0eeb619accf9.png)
+
 
 ## 빅데이터 기반 경상남도 청년인구 감소 현황 및 요인 분석
 
